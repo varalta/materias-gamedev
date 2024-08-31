@@ -4,9 +4,9 @@ Saudações!
 Faz anos que escrevo matérias e/ou artigos voltados para o universo de games e gamedev (desenvolvimento de jogos) em geral. 
 Como estes materiais acabam ficando espalhados em fontes diferentes, decidi criar este repositório para centralizá-los e organizá-los. 
 
-Em geral, o escopo do material varia bastante: alguns têm cunho mais acadêmico, outros têm um enfoque mais educacional, outros são mais voltados para a análise das obras (...). Meu objetivo principal sempre foi documentar meu aprendizado e compartilhá-lo com as pessoas, mas o público-alvo e o formato do material acaba variando com frequência.
+Em geral, o escopo do material varia bastante: alguns têm cunho mais acadêmico, outros têm um enfoque mais educacional, outros são mais voltados para a análise das obras (...). Meu objetivo principal sempre foi documentar meu aprendizado e compartilhá-lo com as pessoas, mas o público-alvo e o formato do material acaba variando com certa frequência.
 
-Todo conteúdo partilhado aqui tem meu envolvimento, mas nem todo conteúdo foi feito unicamente por mim — é importante lembrar que a colaboração e a parceria são fundamentais no meio GameDev.
+Todo conteúdo organizado neste repositório tem meu envolvimento, mas nem todo conteúdo foi feito unicamente por mim — é importante lembrar que a colaboração e a parceria são fundamentais no meio GameDev. Várias matérias foram feitas em colaboração com meus amigos.
 
 Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e/ou acompanhar meu trabalho.
 
