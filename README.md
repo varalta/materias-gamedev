@@ -25,22 +25,22 @@ Make the Game. Edição 26. *Jogos & Aprendizado*. Página 44.
 Make the Game. Edição 25. *FUS RO DAH: No mundo das Conlangs*. Página 20.
 
 ## Matérias publicadas na revista "Make the RPG!"
-Make The RPG! Edição 08. *Os olhos do Desenvolvedor*. Página 18.
-
-Make The RPG! Edição 09. *O Monomito e a Jornada de Link*. Página 20.
-
-Make The RPG! Edição 10. *Convertendo Vídeos para .OGV*. Página 69.
-
-Make The RPG! Edição 11. *Estamos Fartos do RTP?*. Página 30.
-
-Make The RPG! Edição 12. *Entrevista: Dark Gaia*. Página 18.
-
-Make The RPG! Edição 13. *Bonjour e um Tour pela França*. Página 32.
-
-Make The RPG! Edição 14. *Melody Raiser 101*. Página 16.
-
-Make The RPG! Edição 15. *A Pirataria e o Maker*. Página 38.
+Make The RPG! Edição 16. *Ninjas, Halloween e Matemática*. Página 96.
 
 Make The RPG! Edição 15. *Triple Full: Grandes Pequenas Aventuras*. Página 90.
 
-Make The RPG! Edição 16. *Ninjas, Halloween e Matemática*. Página 96.
+Make The RPG! Edição 15. *A Pirataria e o Maker*. Página 38.
+
+Make The RPG! Edição 14. *Melody Raiser 101*. Página 16.
+
+Make The RPG! Edição 13. *Bonjour e um Tour pela França*. Página 32.
+
+Make The RPG! Edição 12. *Entrevista: Dark Gaia*. Página 18.
+
+Make The RPG! Edição 11. *Estamos Fartos do RTP?*. Página 30.
+
+Make The RPG! Edição 10. *Convertendo Vídeos para .OGV*. Página 69.
+
+Make The RPG! Edição 09. *O Monomito e a Jornada de Link*. Página 20.
+
+Make The RPG! Edição 08. *Os olhos do Desenvolvedor*. Página 18.
