@@ -5,7 +5,7 @@ Como os artigos acabam ficando espalhados em fontes diferentes, decidi criar est
 
 Em geral, o escopo do material varia bastante: alguns têm cunho mais acadêmico, outros tem uma via mais prática (como tutoriais), outros são mais voltados para a análise de obras. Meu objetivo principal sempre foi documentar meus aprendizados e compartilhar minhas descobertas. Espero que o material possa ajudar as pessoas interessadas na área.
 
-## Make the Game
+## Matérias publicadas na revista "Make the Game"
 Make the Game. Edição 30. Os Jogos e o Daltonismo. Página 50. [[Matéria](https://archive.org/details/os-jogos-e-o-daltonismo)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2330.pdf)]
 
 Make the Game. Edição 29. O Áudio ninja de Zelda: Breath of the Wild. Página 62.
@@ -24,7 +24,7 @@ Make the Game. Edição 26. Jogos & Aprendizado. Página 44.
 
 Make the Game. Edição 25. FUS RO DAH: No mundo das Conlangs. Página 20.
 
-## Make the RPG!
+## Matérias publicadas na revista "Make the RPG!"
 Make The RPG! Edição 08. Os olhos do Desenvolvedor. Página 18.
 
 Make The RPG! Edição 09. O Monomito e a Jornada de Link. Página 20.
