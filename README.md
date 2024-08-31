@@ -5,6 +5,13 @@ Como os artigos acabam ficando espalhados em fontes diferentes, decidi criar est
 
 Em geral, o escopo do material varia bastante: alguns têm cunho mais acadêmico, outros tem uma via mais prática (como tutoriais), outros são mais voltados para a análise de obras. Meu objetivo principal sempre foi documentar meus aprendizados e compartilhar minhas descobertas. Espero que o material possa ajudar as pessoas interessadas na área.
 
+## Artigos científicos
+*Aplicação de uma rede perceptron no jogo Pong*. Publicado no GitHub. 2024. [[Artigo](https://github.com/varalta/perceptron-pong/blob/main/artigo.pdf)] [[Repositório](https://github.com/varalta/perceptron-pong/)]
+
+## Matérias e conteúdos educativos publicados de forma independente
+*Análise do sistema de personalidades em Refind Self*. Publicado no Slideshare. 2024. [[Matéria](https://pt.slideshare.net/slideshow/analise-do-sistema-de-personalidades-em-refind-self/271304421)] [[Discussão no Condado](https://condadobraveheart.com/threads/analise-do-sistema-de-personalidades-em-refind-self.8229/)]
+
+
 ## Matérias publicadas na revista "Make the Game"
 Make the Game. Edição 30. *Os Jogos e o Daltonismo*. Página 50. [[Matéria](https://archive.org/details/os-jogos-e-o-daltonismo)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2330.pdf)]
 
