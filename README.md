@@ -19,42 +19,42 @@ Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e
 
 
 ## Matérias publicadas na revista "Make the Game"
-Make the Game. Edição 30. *Os Jogos e o Daltonismo*. Página 50. [[Matéria](https://archive.org/details/os-jogos-e-o-daltonismo)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2330.pdf)]
+*Os Jogos e o Daltonismo*. Make the Game #30. Página 50. [[Matéria](https://archive.org/details/os-jogos-e-o-daltonismo)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2330.pdf)]
 
-Make the Game. Edição 29. *O Áudio ninja de Zelda: Breath of the Wild*. Página 62.
+*O Áudio ninja de Zelda: Breath of the Wild*. Make the Game #29. Página 62. [[Edição completa](https://www.condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2329.pdf)]
 
-Make the Game. Edição 28. *Como o som conta histórias em GWENT*. Página 62.
+*Como o som conta histórias em GWENT*. Make the Game #28. Página 62.
 
-Make the Game. Edição 28. *Entrevista: Mirabolis Studios*. Página 26.
+*Entrevista: Mirabolis Studios*. Make the Game #28. Página 26.
 
-Make the Game. Edição 27. *Celeste: Harmonia Visual e Sonora*. Página 66.
+*Celeste: Harmonia Visual e Sonora*. Make the Game #27. Página 66.
 
-Make the Game. Edição 27. *Diversão por Descobertas: O Design Multiplicativo em Breath of the Wild*. Página 60. 
+*Diversão por Descobertas: O Design Multiplicativo em Breath of the Wild*. Make the Game #27. Página 60. 
 
-Make the Game. Edição 26. *Terror Imersivo: As lições do vale sinistro*. Página 54.
+*Terror Imersivo: As lições do vale sinistro*. Make the Game #26. Página 54.
 
-Make the Game. Edição 26. *Jogos & Aprendizado*. Página 44.
+*Jogos & Aprendizado*. Make the Game #26. Página 44.
 
-Make the Game. Edição 25. *FUS RO DAH: No mundo das Conlangs*. Página 20.
+*FUS RO DAH: No mundo das Conlangs*. Make the Game #25. Página 20.
 
 
 ## Matérias publicadas na revista "Make the RPG!"
-Make The RPG! Edição 16. *Ninjas, Halloween e Matemática*. Página 96.
+*Ninjas, Halloween e Matemática*. Make The RPG! #16. Página 96.
 
-Make The RPG! Edição 15. *Triple Full: Grandes Pequenas Aventuras*. Página 90.
+*Triple Full: Grandes Pequenas Aventuras*. Make The RPG! #15. Página 90.
 
-Make The RPG! Edição 15. *A Pirataria e o Maker*. Página 38.
+*A Pirataria e o Maker*. Make The RPG! #15. Página 38.
 
-Make The RPG! Edição 14. *Melody Raiser 101*. Página 16.
+*Melody Raiser 101*. Make The RPG! #14. Página 16.
 
-Make The RPG! Edição 13. *Bonjour e um Tour pela França*. Página 32.
+*Bonjour e um Tour pela França*. Make The RPG! #13. Página 32.
 
-Make The RPG! Edição 12. *Entrevista: Dark Gaia*. Página 18.
+*Entrevista: Dark Gaia*. Make The RPG! #12. Página 18.
 
-Make The RPG! Edição 11. *Estamos Fartos do RTP?*. Página 30.
+*Estamos Fartos do RTP?*. Make The RPG! #11. Página 30.
 
-Make The RPG! Edição 10. *Convertendo Vídeos para .OGV*. Página 69.
+*Convertendo Vídeos para .OGV*. Make The RPG! #10. Página 69.
 
-Make The RPG! Edição 09. *O Monomito e a Jornada de Link*. Página 20.
+*O Monomito e a Jornada de Link*. Make The RPG! #09. Página 20.
 
-Make The RPG! Edição 08. *Os olhos do Desenvolvedor*. Página 18.
+*Os olhos do Desenvolvedor*. Make The RPG! #08. Página 18.
