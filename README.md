@@ -15,13 +15,13 @@ Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e
 
 
 ## Matérias e conteúdos educativos publicados de forma independente
-*Análise do sistema de personalidades em Refind Self*. Publicado no Slideshare. [[Matéria](https://pt.slideshare.net/slideshow/analise-do-sistema-de-personalidades-em-refind-self/271304421)] [[Discussão no Condado](https://condadobraveheart.com/threads/analise-do-sistema-de-personalidades-em-refind-self.8229/)]
+*Análise do sistema de personalidades em Refind Self*. Publicado no Slideshare. [[Matéria](https://pt.slideshare.net/slideshow/analise-do-sistema-de-personalidades-em-refind-self/271304421)] [[Participe da discussão](https://condadobraveheart.com/threads/analise-do-sistema-de-personalidades-em-refind-self.8229/)]
 
 
 ## Matérias publicadas na revista "Make the Game"
 *Os Jogos e o Daltonismo*. Make the Game, n. 30, p. 50. [[Matéria](https://archive.org/details/os-jogos-e-o-daltonismo)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2330.pdf)]
 
-*O Áudio ninja de Zelda: Breath of the Wild*. Make the Game, n. 29, p. 62. [[Edição completa](https://www.condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2329.pdf)]
+*O Áudio ninja de Zelda: Breath of the Wild*. Make the Game, n. 29, p. 62. [[Matéria](https://archive.org/details/o-audio-ninja-de-zelda-botw)] [[Edição completa](https://www.condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2329.pdf)]
 
 *Como o som conta histórias em GWENT*. Make the Game, n. 28, p. 62. [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2328.pdf)]
 
