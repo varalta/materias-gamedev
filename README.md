@@ -25,7 +25,7 @@ Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e
 
 *Como o som conta histórias em GWENT*. Make the Game, n. 28, p. 62-64. [[Matéria](https://archive.org/details/ed-28-02)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2328.pdf)]
 
-*Entrevista: Mirabolis Studios*. Make the Game, n. 28, p. 26. [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2328.pdf)]
+*Entrevista: Mirabolis Studios*. Make the Game, n. 28, p. 26-30. [[Matéria](https://archive.org/details/ed-28-01)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2328.pdf)]
 
 *Celeste: Harmonia Visual e Sonora*. Make the Game, n. 27, p. 66. [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2327.pdf)]
 
