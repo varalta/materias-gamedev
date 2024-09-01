@@ -19,11 +19,11 @@ Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e
 
 
 ## Matérias publicadas na revista "Make the Game"
-*Os Jogos e o Daltonismo*. Make the Game, n. 30, p. 50. [[Matéria](https://archive.org/details/os-jogos-e-o-daltonismo)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2330.pdf)]
+*Os Jogos e o Daltonismo*. Make the Game, n. 30, p. 50-55. [[Matéria](https://archive.org/details/os-jogos-e-o-daltonismo)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2330.pdf)]
 
-*O Áudio ninja de Zelda: Breath of the Wild*. Make the Game, n. 29, p. 62. [[Matéria](https://archive.org/details/o-audio-ninja-de-zelda-botw)] [[Edição completa](https://www.condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2329.pdf)]
+*O Áudio ninja de Zelda: Breath of the Wild*. Make the Game, n. 29, p. 60-63. [[Matéria](https://archive.org/details/o-audio-ninja-de-zelda-botw)] [[Edição completa](https://www.condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2329.pdf)]
 
-*Como o som conta histórias em GWENT*. Make the Game, n. 28, p. 62. [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2328.pdf)]
+*Como o som conta histórias em GWENT*. Make the Game, n. 28, p. 62-64. [[Matéria](https://archive.org/details/ed-28-02)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2328.pdf)]
 
 *Entrevista: Mirabolis Studios*. Make the Game, n. 28, p. 26. [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2328.pdf)]
 
