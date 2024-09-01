@@ -23,19 +23,19 @@ Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e
 
 *O Áudio ninja de Zelda: Breath of the Wild*. Make the Game #29. Página 62. [[Edição completa](https://www.condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2329.pdf)]
 
-*Como o som conta histórias em GWENT*. Make the Game #28. Página 62.
+*Como o som conta histórias em GWENT*. Make the Game #28. Página 62. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2328.pdf)]
 
-*Entrevista: Mirabolis Studios*. Make the Game #28. Página 26.
+*Entrevista: Mirabolis Studios*. Make the Game #28. Página 26. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2328.pdf)]
 
-*Celeste: Harmonia Visual e Sonora*. Make the Game #27. Página 66.
+*Celeste: Harmonia Visual e Sonora*. Make the Game #27. Página 66. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2327.pdf)]
 
-*Diversão por Descobertas: O Design Multiplicativo em Breath of the Wild*. Make the Game #27. Página 60. 
+*Diversão por Descobertas: O Design Multiplicativo em Breath of the Wild*. Make the Game #27. Página 60. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2327.pdf)]
 
-*Terror Imersivo: As lições do vale sinistro*. Make the Game #26. Página 54.
+*Terror Imersivo: As lições do vale sinistro*. Make the Game #26. Página 54. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2326.pdf)]
 
-*Jogos & Aprendizado*. Make the Game #26. Página 44.
+*Jogos & Aprendizado*. Make the Game #26. Página 44. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2326.pdf)]
 
-*FUS RO DAH: No mundo das Conlangs*. Make the Game #25. Página 20.
+*FUS RO DAH: No mundo das Conlangs*. Make the Game #25. Página 20. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2325.pdf)]
 
 
 ## Matérias publicadas na revista "Make the RPG!"
