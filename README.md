@@ -39,22 +39,22 @@ Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e
 
 
 ## Matérias publicadas na revista "Make the RPG!"
-*Ninjas, Halloween e Matemática*. Make The RPG! #16. Página 96.
+*Ninjas, Halloween e Matemática*. Make The RPG! #16. Página 96. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED16.pdf)]
 
-*Triple Full: Grandes Pequenas Aventuras*. Make The RPG! #15. Página 90.
+*Triple Full: Grandes Pequenas Aventuras*. Make The RPG! #15. Página 90. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED15.pdf)]
 
-*A Pirataria e o Maker*. Make The RPG! #15. Página 38.
+*A Pirataria e o Maker*. Make The RPG! #15. Página 38. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED15.pdf)]
 
-*Melody Raiser 101*. Make The RPG! #14. Página 16.
+*Melody Raiser 101*. Make The RPG! #14. Página 16. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED14.pdf)]
 
-*Bonjour e um Tour pela França*. Make The RPG! #13. Página 32.
+*Bonjour e um Tour pela França*. Make The RPG! #13. Página 32. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED13.pdf)]
 
-*Entrevista: Dark Gaia*. Make The RPG! #12. Página 18.
+*Entrevista: Dark Gaia*. Make The RPG! #12. Página 18. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED12.pdf)]
 
-*Estamos Fartos do RTP?*. Make The RPG! #11. Página 30.
+*Estamos Fartos do RTP?*. Make The RPG! #11. Página 30. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED11.pdf)]
 
-*Convertendo Vídeos para .OGV*. Make The RPG! #10. Página 69.
+*Convertendo Vídeos para .OGV*. Make The RPG! #10. Página 69. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED10.pdf)]
 
-*O Monomito e a Jornada de Link*. Make The RPG! #09. Página 20.
+*O Monomito e a Jornada de Link*. Make The RPG! #09. Página 20. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED09.pdf)]
 
-*Os olhos do Desenvolvedor*. Make The RPG! #08. Página 18.
+*Os olhos do Desenvolvedor*. Make The RPG! #08. Página 18. [[Edição Completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED08.pdf)]
