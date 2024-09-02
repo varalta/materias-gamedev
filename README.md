@@ -33,9 +33,9 @@ Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e
 
 *Terror Imersivo: As lições do vale sinistro*. Make the Game, n. 26, p. 54-59. [[Matéria](https://archive.org/details/ed-26-02)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2326.pdf)]
 
-*Jogos & Aprendizado*. Make the Game, n. 26, p. 44. [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2326.pdf)]
+*Jogos & Aprendizado*. Make the Game, n. 26, p. 43-52. [[Matéria](https://archive.org/details/ed-26-01)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2326.pdf)]
 
-*FUS RO DAH: No mundo das Conlangs*. Make the Game, n. 25, p. 20. [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2325.pdf)]
+*FUS RO DAH: No mundo das Conlangs*. Make the Game, n. 25, p. 20-22. [[Matéria](https://archive.org/details/ed-25)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2325.pdf)]
 
 
 ## Matérias publicadas na revista "Make the RPG!"
