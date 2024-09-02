@@ -39,7 +39,7 @@ Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e
 
 
 ## Matérias publicadas na revista "Make the RPG!"
-*Ninjas, Halloween e Matemática*. Make The RPG!, n. 16, p. 96. [[Matéria](https://archive.org/details/ed-16)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED16.pdf)]
+*Ninjas, Halloween e Matemática*. Make The RPG!, n. 16, p. 96. [[Matéria](https://archive.org/details/ed-16_202409)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED16.pdf)]
 
 *Triple Full: Grandes Pequenas Aventuras*. Make The RPG!, n. 15, p. 90. [[Matéria](https://archive.org/details/ed-15-02)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED15.pdf)]
 
