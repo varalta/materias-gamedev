@@ -14,7 +14,7 @@ Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e
 *Aplicação de uma rede perceptron no jogo Pong*. Pre-print publicado no GitHub. [[Artigo](https://github.com/varalta/perceptron-pong/blob/main/artigo.pdf)] [[Repositório](https://github.com/varalta/perceptron-pong/)]
 
 
-## Matérias e conteúdos educativos publicados de forma independente
+## Matérias e conteúdos publicados de forma independente
 *Análise do sistema de personalidades em Refind Self*. Publicado no Slideshare. [[Matéria](https://pt.slideshare.net/slideshow/analise-do-sistema-de-personalidades-em-refind-self/271304421)] [[Participe da discussão](https://condadobraveheart.com/threads/analise-do-sistema-de-personalidades-em-refind-self.8229/)]
 
 
