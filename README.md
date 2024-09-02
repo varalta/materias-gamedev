@@ -29,7 +29,7 @@ Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e
 
 *Celeste: Harmonia Visual e Sonora*. Make the Game, n. 27, p. 66-70. [[Matéria](https://archive.org/details/ed-28-02_202409)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2327.pdf)]
 
-*Diversão por Descobertas: O Design Multiplicativo em Breath of the Wild*. Make the Game, n. 27, p. 60. [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2327.pdf)]
+*Diversão por Descobertas: O Design Multiplicativo em Breath of the Wild*. Make the Game, n. 27, p. 60. [[Matéria](https://archive.org/details/ed-27-01)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2327.pdf)]
 
 *Terror Imersivo: As lições do vale sinistro*. Make the Game, n. 26, p. 54. [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2326.pdf)]
 
