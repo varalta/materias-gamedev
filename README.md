@@ -39,22 +39,22 @@ Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e
 
 
 ## Matérias publicadas na revista "Make the RPG!"
-*Ninjas, Halloween e Matemática*. Make The RPG!, n. 16, p. 96. [[Matéria](https://archive.org/details/ed-16_202409)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED16.pdf)]
+*Ninjas, Halloween e Matemática*. Make The RPG!, n. 16, p. 96-98. [[Matéria](https://archive.org/details/ed-16_202409)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED16.pdf)]
 
-*Triple Full: Grandes Pequenas Aventuras*. Make The RPG!, n. 15, p. 90. [[Matéria](https://archive.org/details/ed-15-02)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED15.pdf)]
+*Triple Full: Grandes Pequenas Aventuras*. Make The RPG!, n. 15, p. 90-92. [[Matéria](https://archive.org/details/ed-15-02)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED15.pdf)]
 
-*A Pirataria e o Maker*. Make The RPG!, n. 15, p. 38. [[Matéria](https://archive.org/details/ed-15-01)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED15.pdf)]
+*A Pirataria e o Maker*. Make The RPG!, n. 15, p. 38-47. [[Matéria](https://archive.org/details/ed-15-01)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED15.pdf)]
 
-*Melody Raiser 101*. Make The RPG!, n. 14, p. 16. [[Matéria](https://archive.org/details/ed-14)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED14.pdf)]
+*Melody Raiser 101*. Make The RPG!, n. 14, p. 84-90. [[Matéria](https://archive.org/details/ed-14)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED14.pdf)]
 
-*Bonjour e um Tour pela França*. Make The RPG!, n. 13, p. 32. [[Matéria](https://archive.org/details/ed-13)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED13.pdf)]
+*Bonjour e um Tour pela França*. Make The RPG!, n. 13, p. 32-34. [[Matéria](https://archive.org/details/ed-13)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED13.pdf)]
 
-*Entrevista: Dark Gaia*. Make The RPG!, n. 12, p. 18. [[Matéria](https://archive.org/details/ed-12)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED12.pdf)]
+*Entrevista: Dark Gaia*. Make The RPG!, n. 12, p. 18-23. [[Matéria](https://archive.org/details/ed-12)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED12.pdf)]
 
-*Estamos Fartos do RTP?*. Make The RPG!, n. 11, p. 30. [[Matéria](https://archive.org/details/ed-11)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED11.pdf)]
+*Estamos Fartos do RTP?*. Make The RPG!, n. 11, p. 30-31. [[Matéria](https://archive.org/details/ed-11)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED11.pdf)]
 
-*Convertendo Vídeos para .OGV*. Make The RPG!, n. 10, p. 69. [[Matéria](https://archive.org/details/ed-10)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED10.pdf)]
+*Convertendo Vídeos para .OGV*. Make The RPG!, n. 10, p. 69-71. [[Matéria](https://archive.org/details/ed-10)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED10.pdf)]
 
-*O Monomito e a Jornada de Link*. Make The RPG!, n. 09, p. 20. [[Matéria](https://archive.org/details/ed-09)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED09.pdf)]
+*O Monomito e a Jornada de Link*. Make The RPG!, n. 09, p. 20-23. [[Matéria](https://archive.org/details/ed-09)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED09.pdf)]
 
-*Os olhos do Desenvolvedor*. Make The RPG!, n. 08, p. 18. [[Matéria](https://archive.org/details/ed-08)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED08.pdf)]
+*Os olhos do Desenvolvedor*. Make The RPG!, n. 08, p. 18-19. [[Matéria](https://archive.org/details/ed-08)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED08.pdf)]
