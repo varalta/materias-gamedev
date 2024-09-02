@@ -57,4 +57,4 @@ Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e
 
 *O Monomito e a Jornada de Link*. Make The RPG!, n. 09, p. 20-23. [[Matéria](https://archive.org/details/ed-09)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED09.pdf)]
 
-*Os olhos do Desenvolvedor*. Make The RPG!, n. 08, p. 18-19. [[Matéria](https://archive.org/details/ed-08)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED08.pdf)]
+*Os olhos do Desenvolvedor*. Make The RPG!, n. 08, p. 18-19. [[Matéria](https://archive.org/details/ed-08_202409)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED08.pdf)]
