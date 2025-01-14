@@ -1,20 +1,22 @@
 # Matérias e artigos sobre GameDev
-Saudações! 
+Saudações! :)
 
-Faz anos que escrevo matérias e/ou artigos voltados para o universo de games e gamedev (desenvolvimento de jogos) em geral. 
+Faz anos que produzo conteúdo voltado para o universo de games e gamedev (desenvolvimento de jogos) em geral.
 Como estes materiais acabam ficando espalhados em fontes diferentes, decidi criar este repositório para centralizá-los e organizá-los. 
 
 Em geral, o escopo do material varia bastante: alguns têm cunho mais acadêmico, outros têm um enfoque mais educacional, outros são mais voltados para a análise das obras (...). Meu objetivo principal sempre foi documentar meu aprendizado e compartilhá-lo com as pessoas, mas o público-alvo e o formato do material acaba variando com certa frequência.
 
-Todo conteúdo organizado neste repositório tem meu envolvimento, mas nem todo conteúdo foi feito unicamente por mim — é importante lembrar que a colaboração e a parceria são fundamentais no meio GameDev. Algumas matérias foram feitas em colaboração com meus amigos, outras são entrevistas que conduzi com profissionais da área, muitas são de minha autoria mas com o design da matéria elaborado por outra pessoa (como acontece nas revistas Make the RPG! e Make the Game), entre diversas outras situações. 
+Todo conteúdo organizado neste repositório tem meu envolvimento, mas nem todo conteúdo foi feito unicamente por mim — algumas matérias foram feitas em colaboração com amigos, outras são entrevistas conduzidas com profissionais da área e algumas são de minha autoria mas com o design elaborado por outra pessoa (como acontece na revista Make the Game).
 
-Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e/ou acompanhar meu trabalho.
+Espero que este conteúdo possa ajudar você de alguma forma. Obrigado por ler e/ou acompanhar meu trabalho. 🎮
 
 ## Artigos científicos
 *Aplicação de uma rede perceptron no jogo Pong*. Pre-print publicado no GitHub. [[Artigo](https://github.com/varalta/perceptron-pong/blob/main/artigo.pdf)] [[Repositório](https://github.com/varalta/perceptron-pong/)]
 
 
-## Matérias publicadas de forma independente
+## Material publicado de forma independente
+*Quatro Setes: Manual do Jogo*. [[Manual completo](https://online.fliphtml5.com/qnywi/cmkm/#p=1)] [[Deixe seu feedback](https://condadobraveheart.com/threads/quatro-setes-manual-do-jogo-como-jogar.8335/)]
+
 *Análise do sistema de personalidades em Refind Self*. Publicado no Slideshare. [[Matéria](https://pt.slideshare.net/slideshow/analise-do-sistema-de-personalidades-em-refind-self/271304421)] [[Participe da discussão](https://condadobraveheart.com/threads/analise-do-sistema-de-personalidades-em-refind-self.8229/)]
 
 
